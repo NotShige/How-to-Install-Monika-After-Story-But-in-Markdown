@@ -9,7 +9,7 @@ Once downloaded, **open it**. I recommend that you use **WinRAR** or **7-Zip**.
 
 ![image alt text](https://github.com/NotShige/How-to-Install-Monika-After-Story-But-in-Markdown/raw/master/Images/image_1.png)
 
-Now, double-click on **Monika\_After\_Story-0.6.3-Mod.** You should see a lot of files.![image alt text](https://github.com/NotShige/How-to-Install-Monika-After-Story-But-in-Markdown/raw/master/Images/image_2.png)**DO NOT CLOSE THIS YET!**
+Now, double-click on ```Monika_After_Story-0.6.3-Mod```. You should see a lot of files.![image alt text](https://github.com/NotShige/How-to-Install-Monika-After-Story-But-in-Markdown/raw/master/Images/image_2.png)**DO NOT CLOSE THIS YET!**
 
 Now, **find your installation** of DDLC. **If you are using Steam,** follow the instructions below. 
 
