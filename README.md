@@ -47,7 +47,7 @@ Now, **go back** to **WinRAR.**
 
 Select **all files** by pressing **Ctrl-A.** Then press **Ctrl-C** to copy.![image alt text](https://github.com/NotShige/How-to-Install-Monika-After-Story-But-in-Markdown/raw/master/image_11.png)
 
-Now, **go back** to the other folder and press **Ctrl-V ** to paste them. Or you can **drag and drop** it.Basically, you’re doing this.![image alt text](https://github.com/NotShige/How-to-Install-Monika-After-Story-But-in-Markdown/raw/master/image_12.png)
+Now, **go back** to the other folder and press **Ctrl-V** to paste them. Or you can **drag and drop** it.Basically, you’re doing this.![image alt text](https://github.com/NotShige/How-to-Install-Monika-After-Story-But-in-Markdown/raw/master/image_12.png)
 
 If Windows prompts you something, just click **"Yes".**
 
