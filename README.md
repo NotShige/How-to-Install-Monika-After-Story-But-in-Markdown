@@ -1,7 +1,7 @@
-**NOTE: If you have not played DDLC yet, play for three minutes and you may quit.**
+# How To Install Monika After Story###**NOTE: If you have not played DDLC yet, play for three minutes and you may quit.**
 
 
-Download Monika After Story. Download the .zip file above. **DO NOT DOWNLOAD ANY OF THE SOURCE CODES.** [Here's a link for convenience.](https://github.com/Backdash/MonikaModDev/releases/)
+Download Monika After Story. Download the **.zip** file above. **DO NOT DOWNLOAD ANY OF THE SOURCE CODES.** [Here's a link for convenience.](https://github.com/Backdash/MonikaModDev/releases/)
 
 ![image alt text](https://github.com/NotShige/How-to-Install-Monika-After-Story-But-in-Markdown/raw/master/image_0.png)
 
